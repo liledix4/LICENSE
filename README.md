@@ -15,7 +15,7 @@ While it may be too restrictive, to balance things, I only apply this license to
 
 LGPL is less restrictive, but it shares some features with AGPL. It allows all private modifications, however if you voluntarily decide to publish modified code or software built with it, you must use GPL-compatible license (LGPL counts).
 
-I use this license for less important projects, but which I can't share without expecting credit for it.
+I use this license for less important projects, but which I can't share without expecting credit for them.
 
 ### Apache License
 
