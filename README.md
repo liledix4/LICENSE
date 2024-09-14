@@ -25,7 +25,7 @@ I use this license if I don't care what happens to the project. It can take on a
 
 ## Licenses for audiovisual content
 
-I use Creative Commons.
+I use Creative Commons. Most common variant is CC BY-NC-SA 4.0.
 
 - In case of music, it shouldn't rely too much on recognizable leitmotifs. Remixes of popular media are not allowed for CC licensing.
 - In case of videos, they should have elements created from scratch, without using existing footages and graphical content.
