@@ -31,4 +31,4 @@ I use Creative Commons. Most common variant is CC BY-NC-SA 4.0.
 - In case of videos, they should have elements created from scratch, without using existing footages and graphical content.
 - In case of images, they should be created from scratch, meaning that there should be a project file containing every separate detail of the result image. Recreations of the popular design elements (like DDLC New Heading logo) are not allowed for CC licensing.
 
-Otherwise, the content is unlicensed.
+Otherwise, the content is unlicensed. Does it mean that you can do whatever you want in this case? No. More like it doesn't guarantee you anything.
